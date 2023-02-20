@@ -7,7 +7,7 @@ Existing work on Entity Linking mostly assumes that the reference knowledge base
 
 ### Reference knowledge base
 
-[All entities](https://dl.fbaipublicfiles.com/edin/entity_all.jsonl)
+[All entities](https://dl.fbaipublicfiles.com/edin/entity_all.tar.gz)
 
 ### News data
 
