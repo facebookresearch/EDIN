@@ -40,7 +40,7 @@ Follow the instructions listed in [wikipedia-README](data_processor/wikipedia/RE
 
 ##
 
-If you use the this code ase, please cite the following paper:
+If you use the this code, please cite the following paper:
 ```bibtex
 @misc{https://doi.org/10.48550/arxiv.2205.12570,
   doi = {10.48550/ARXIV.2205.12570},
